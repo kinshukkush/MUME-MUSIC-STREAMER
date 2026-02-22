@@ -1,0 +1,40 @@
+# Ignore files for EAS Build
+
+# Documentation files
+ASSETS_GUIDE.md
+demo_video.md
+explanation.md
+
+# Development files
+.vscode/
+.idea/
+
+# Git files
+.git/
+.gitignore
+
+# Node modules (will be installed during build)
+node_modules/
+
+# Expo files
+.expo/
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+build/
+dist/
+web-build/
+
+# Environment files (use EAS secrets instead)
+.env
+.env.*
+!.env.example
