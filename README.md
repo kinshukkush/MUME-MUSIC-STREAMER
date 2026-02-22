@@ -48,9 +48,9 @@
 
 **Download the latest APK directly from GitHub Releases:**
 
-[![Download APK](https://img.shields.io/badge/Download-APK-F5A623?style=for-the-badge&logo=android&logoColor=white)](https://github.com/kinshukkush/mume-music-player/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-F5A623?style=for-the-badge&logo=android&logoColor=white)](https://github.com/kinshukkush/MUME-MUSIC-STREAMER/releases/latest)
 
-1. Go to the [Releases page](https://github.com/kinshukkush/mume-music-player/releases/latest)
+1. Go to the [Releases page](https://github.com/kinshukkush/MUME-MUSIC-STREAMER/releases/latest)
 2. Download the latest `.apk` file
 3. Install on your Android device
 4. Enjoy! 🎵
@@ -74,10 +74,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/kinshukkush/mume-music-player.git
+git clone https://github.com/kinshukkush/MUME-MUSIC-STREAMER.git
 
 # Navigate to project directory
-cd mume-music-player
+cd MUME-MUSIC-STREAMER
 
 # Install dependencies
 npm install
@@ -132,26 +132,6 @@ npx expo build:android --type apk
 
 ---
 
-## 🚀 Deploying to GitHub
-
-### First Time Setup
-
-```bash
-# Initialize git (if not already initialized)
-git init
-
-# Add all files
-git add .
-
-# Commit changes
-git commit -m "Initial commit: Mume Music Player v1.0.0"
-
-# Add remote repository (replace with your GitHub repo URL)
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-
-# Push to GitHub
-git push -u origin main
-```
 
 ### Creating a Release with APK
 
